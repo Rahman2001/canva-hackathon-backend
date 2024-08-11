@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "This is a slide of presentation in Canva. Evaluate a design and cohesiveness of the slide for viewers/readers. Give a score from 0 to 10 and write it at the top in 'Score' section. Explain your score and write it in 'Score Explanation' section. If you have any recommendation(s), please, write them in 'Recommendation' section. <img src=\"data:image/png;base64,{image_b64}\" />"
+    }
+  ],
+  "max_tokens": 2048,
+  "temperature": 1.00,
+  "top_p": 0.70,
+  "stream": false
+}
