@@ -7,9 +7,11 @@ import phi3_vision_128k_instruct
 import phi3_medium_128k_instruct
 from zipfile import ZipFile
 from flask import Flask, request
+# from flask_ngrok import run_with_ngrok
 from flask_cors import CORS
 
 app = Flask(__name__)
+# run_with_ngrok(app)
 CORS(app)
 
 
