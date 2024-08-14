@@ -35,3 +35,5 @@ Other requirements can be seen in `requirements.txt` file which can be executed 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Backend Architecture
