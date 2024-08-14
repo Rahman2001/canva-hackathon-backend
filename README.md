@@ -36,4 +36,5 @@ Other requirements can be seen in `requirements.txt` file which can be executed 
 pip install -r requirements.txt
 ```
 
-## Backend Architecture
+## Flow Diagram
+![Backend flow diagram](https://github.com/Rahman2001/canva-hackathon-backend/blob/master/canva%20ai%20hackthon%20backend%20diagram.drawio.png)
